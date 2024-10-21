@@ -40,7 +40,7 @@ Atualmente, estou focado em aprimorar minhas habilidades em **Spring Boot** e de
 
 ## 📈 Estatísticas do GitHub
 
-![João's GitHub stats](https://github-readme-stats.vercel.app/api?username=joaosvaisser&show_icons=true&theme=dracula)
+![João's GitHub stats](https://github-readme-stats.vercel.app/api?username=Svaisser&show_icons=true&theme=dracula)
 
 ---
 
