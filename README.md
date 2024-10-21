@@ -45,4 +45,4 @@ Atualmente, estou focado em aprimorar minhas habilidades com **Spring Boot**, **
 ## 📫 Como me encontrar
 
 - **LinkedIn:** [João Svaisser](https://www.linkedin.com/in/joaosvaisser/)
-- **Email:** svaisserjv
+- **Email:** svaisserjv@gmail.com
