@@ -38,12 +38,6 @@ Atualmente, estou focado em aprimorar minhas habilidades em **Spring Boot** e de
 
 ---
 
-## 📈 Estatísticas do GitHub
-
-![João's GitHub stats](https://github-readme-stats.vercel.app/api?username=Svaisser&show_icons=true&theme=dracula)
-
----
-
 ## 📫 Como me encontrar
 
 - **LinkedIn:** [João Svaisser](https://www.linkedin.com/in/joaosvaisser/)
