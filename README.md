@@ -34,6 +34,7 @@ Aqui estão as principais tecnologias e ferramentas com as quais já trabalhei:
 
 ## 🌱 O que estou aprendendo atualmente:
 Atualmente, estou focado em aprimorar minhas habilidades com **Spring Boot**, **Node.js** e **AngularJS**, além de aprofundar meus conhecimentos em **desenvolvimento full stack** e **arquitetura de sistemas**.
+Isso venho fazendo diariamente na empresa que trabalho a Betha sistemas.
 
 ---
 
