@@ -3,12 +3,11 @@
 Sou um desenvolvedor full stack em início de carreira, com experiência em diversas linguagens e frameworks, focado em criar aplicações robustas e escaláveis. Tenho paixão por resolver problemas e sempre busco aprender novas tecnologias tanto no desenvolvimento quanto nas ferramentas de design gráfico.
 
 ### 🚀 O que faço:
-- Desenvolvimento web com **HTML**, **CSS**, **JavaScript** e **PHP**.
+- Desenvolvimento web com **HTML**, **CSS** e **JavaScript**.
 - Desenvolvimento mobile com **React Native**.
 - Backend com **Java**, **Spring Boot** e **Node.js**.
 - Frontend com **AngularJS**.
 - Design e prototipação com **Figma**, **Canva**, e **Photoshop**.
-- Desenvolvimento desktop com **Delphi**.
 
 ---
 
